@@ -1,7 +1,7 @@
 # Interactive Installation
 
 <p align="center">
-  <img src="https://i.imgur.com/KNkY3lA.jpg" width=100%> 
+  <img src="https://i.imgur.com/ndP9gsL.jpg" width=100%> 
 </p>
 
 The interactive installation is a dynamic, immersive experience that combines movement, light, and sound. The installation features a series of platforms equipped with sensors that respond to audience movements by triggering a variety of sound and light effects. During the installation, visitors use sensors to control the sound of the organ and make the church ring. In the concert, the three live musicians take up the organ sound and develop an expansive, immersive sound experience in many variations with the special mixture of guitar, organ, clarinet and electronics.
@@ -114,5 +114,3 @@ def onOffToOn(channel, sampleIndex, val, prev):
   <img src="https://i.imgur.com/fdjwiAc.jpg" width="445" />
   <img src="https://i.imgur.com/o3e63ed.jpg" width="500" /> 
 </p>
-
-For this performance, lighting was the central element of this.
