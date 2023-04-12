@@ -110,7 +110,6 @@ def onOffToOn(channel, sampleIndex, val, prev):
 </details>
 
 # Berlin Shows and Installation
-<p float="left">
-  <img src="https://i.imgur.com/fdjwiAc.jpg" width="40%" />
-  <img src="https://i.imgur.com/o3e63ed.jpg" width="45%" /> 
-</p>
+Kaiser Wilhelm Memorial Church             |  Zehlendorf
+:-------------------------:|:-------------------------:
+![](https://i.imgur.com/fdjwiAc.jpg)  |  ![](https://i.imgur.com/o3e63ed.jpg)
