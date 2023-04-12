@@ -111,6 +111,6 @@ def onOffToOn(channel, sampleIndex, val, prev):
 
 # Berlin Shows and Installation
 <p float="left">
-  <img src="https://i.imgur.com/fdjwiAc.jpg" width="445" />
-  <img src="https://i.imgur.com/o3e63ed.jpg" width="500" /> 
+  <img src="https://i.imgur.com/fdjwiAc.jpg" width="45%" />
+  <img src="https://i.imgur.com/o3e63ed.jpg" width="45%" /> 
 </p>
