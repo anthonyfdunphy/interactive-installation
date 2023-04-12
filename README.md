@@ -1,4 +1,4 @@
-# Interactive Installation
+# TouchDesigner Project - Interactive Installation
 
 <p align="center">
   <img src="https://i.imgur.com/ndP9gsL.jpg" width=100%> 
