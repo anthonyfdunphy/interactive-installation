@@ -6,6 +6,8 @@
 
 The interactive installation is a dynamic, immersive experience that combines movement, light, and sound. The installation features a series of platforms equipped with sensors that respond to audience movements by triggering a variety of sound and light effects. During the installation, visitors use sensors to control the sound of the organ and make the church ring. In the concert, the three live musicians take up the organ sound and develop an expansive, immersive sound experience in many variations with the special mixture of guitar, organ, clarinet and electronics.
 
+The most recent show file is located [here](https://github.com/anthonyfdunphy/interactive-installation/blob/main/working%20showfiles/Dekalog%20-%20Berlin%20-%20Python%20Script.toe)
+
 <p align="center">
   <img src="https://i.imgur.com/KbgPCPz.jpg" width=50%> 
 </p>
